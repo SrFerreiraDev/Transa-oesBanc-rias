@@ -1,0 +1,16 @@
+C:\Meu Código\.NET\Banco.Ferreira\bin\Debug\net5.0\Banco.Ferreira.exe
+C:\Meu Código\.NET\Banco.Ferreira\bin\Debug\net5.0\Banco.Ferreira.deps.json
+C:\Meu Código\.NET\Banco.Ferreira\bin\Debug\net5.0\Banco.Ferreira.runtimeconfig.json
+C:\Meu Código\.NET\Banco.Ferreira\bin\Debug\net5.0\Banco.Ferreira.runtimeconfig.dev.json
+C:\Meu Código\.NET\Banco.Ferreira\bin\Debug\net5.0\Banco.Ferreira.dll
+C:\Meu Código\.NET\Banco.Ferreira\bin\Debug\net5.0\ref\Banco.Ferreira.dll
+C:\Meu Código\.NET\Banco.Ferreira\bin\Debug\net5.0\Banco.Ferreira.pdb
+C:\Meu Código\.NET\Banco.Ferreira\obj\Debug\net5.0\Banco.Ferreira.csproj.AssemblyReference.cache
+C:\Meu Código\.NET\Banco.Ferreira\obj\Debug\net5.0\Banco.Ferreira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meu Código\.NET\Banco.Ferreira\obj\Debug\net5.0\Banco.Ferreira.AssemblyInfoInputs.cache
+C:\Meu Código\.NET\Banco.Ferreira\obj\Debug\net5.0\Banco.Ferreira.AssemblyInfo.cs
+C:\Meu Código\.NET\Banco.Ferreira\obj\Debug\net5.0\Banco.Ferreira.csproj.CoreCompileInputs.cache
+C:\Meu Código\.NET\Banco.Ferreira\obj\Debug\net5.0\Banco.Ferreira.dll
+C:\Meu Código\.NET\Banco.Ferreira\obj\Debug\net5.0\ref\Banco.Ferreira.dll
+C:\Meu Código\.NET\Banco.Ferreira\obj\Debug\net5.0\Banco.Ferreira.pdb
+C:\Meu Código\.NET\Banco.Ferreira\obj\Debug\net5.0\Banco.Ferreira.genruntimeconfig.cache
